@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant/back-end":{"guestpath":"/vagrant/back-end","hostpath":"D:/Workspace/devops/laravel-nextjs-devops/back-end","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"D:/Workspace/devops/laravel-nextjs-devops/local","disabled":false,"__vagrantfile":true}}}
